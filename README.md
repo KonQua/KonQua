@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.io/privacy">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC6O1t-t9tavRUZ_oqb7zCJg">YouTube</a> |
+  <a href="https://github.com/KonQua">Github</a>
+  <br><br>
+  <img src="https://media.discordapp.net/attachments/879205491954290778/879478268905021520/efsdfdsf.gif">
+  <br><br>
+-----
 
-<!--
-**KonQua/KonQua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+👤 >> 16 years old
+🗣️ >> Hobby Developer
+🐺 >> Learn Python
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
